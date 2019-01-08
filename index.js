@@ -1,5 +1,5 @@
 // Add your doToElementsInArray() function here:
-const doToElementsInArray = (element, callback) => {
+function doToElementsInArray(arr, element, callback) {
   arr.forEach(callback);
 }
 
