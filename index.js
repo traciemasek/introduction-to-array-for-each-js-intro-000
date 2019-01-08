@@ -4,6 +4,7 @@ function doToElementsInArray(arr, callback) {
 }
 
 // Add your changeCompletely() function here:
-function changeCompletely() {
+function changeCompletely(element, ind, arr) {
+  arr[index] = `${arr[index]}s`;
   
 }
