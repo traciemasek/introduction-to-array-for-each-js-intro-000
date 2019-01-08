@@ -4,3 +4,6 @@ function doToElementsInArray(arr, callback) {
 }
 
 // Add your changeCompletely() function here:
+function changeCompletely() {
+  
+}
